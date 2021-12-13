@@ -1,3 +1,5 @@
+#Author: Hanwen Zhang
+
 from matplotlib import pyplot as plt
 import random
 import pandas as pd
